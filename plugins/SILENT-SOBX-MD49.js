@@ -123,7 +123,7 @@ async (conn, mek, m, { from, args, q, reply, react }) => {
 });
 
 
-/*cmd({
+cmd({
     pattern: "tiktok",
     alias: ["ttdl", "tt", "tiktokdl"],
     desc: "Download TikTok video without watermark",
@@ -161,9 +161,9 @@ async (conn, mek, m, { from, args, q, reply }) => {
         console.error("Error in TikTok downloader command:", e);
         reply(`An error occurred: ${e.message}`);
     }
-});*/
+});
 
-const { fetchJson } = require('../functions');
+/*const { fetchJson } = require('../functions');
 
 cmd({
   pattern: "tiktok",
@@ -281,7 +281,7 @@ cmd({
       text: `❗ *Error Info:* ${error}`
     }, { quoted: message });
   }
-});
+});*/
 
 
 /*cmd({
