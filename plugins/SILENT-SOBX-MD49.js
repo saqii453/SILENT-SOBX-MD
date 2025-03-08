@@ -18,4 +18,374 @@ contact me 923096287432 ♻️
 */
 
 
-function _0x1da4(_0x3a52fa,_0x38b183){const _0x4c0212=_0x4c02();return _0x1da4=function(_0x1da41e,_0x1b3529){_0x1da41e=_0x1da41e-0x69;let _0x527f4a=_0x4c0212[_0x1da41e];return _0x527f4a;},_0x1da4(_0x3a52fa,_0x38b183);}const _0x202082=_0x1da4;function _0x4c02(){const _0x43a14d=['insta3','An\x20error\x20occurred:\x20','Download\x20Instagram\x20reels\x20or\x20image\x20posts','tiktokdl','ig3','5791116dInLjJ','\x20(@','Download\x20TikTok\x20video\x20without\x20watermark','Failed\x20to\x20fetch\x20Instagram\x20media.','❌\x20*Error:*\x20Unable\x20to\x20process\x20the\x20request.\x20Please\x20try\x20again\x20later.','Download\x20Facebook\x20videos','https://delirius-apiofc.vercel.app/download/tiktok?url=','error','Invalid\x20API\x20response\x20or\x20no\x20video\x20found.','Failed\x20to\x20fetch\x20TikTok\x20video.','28YfHTzR','942uIIAwC','6lhfxsH','📝\x20*Caption:*\x0a','instadl3','📖\x20*TITLE:*\x20','get','fbdl','content','❤️\x20*Likes:*\x20','👤\x20*User:*\x20','image','*`Need\x20a\x20valid\x20Facebook\x20URL!`*','409RTXvlB','\x0a\x0a>\x20©\x20POWERED\x20BY\x20SILENTLOVER432\x20♥️','62091wOfkHV','Please\x20provide\x20an\x20Instagram\x20post\x20or\x20reel\x20link.','message','split','downloader','1392565DYytCI','username','https://delirius-apiofc.vercel.app/download/igv2?url=','url','../command','*\x0a\x0a🔗\x20*POWERED\x20BY\x20SILENTLOVER432*','facebook','*SILENT-SOBX-MD\x20IG\x20DOWNLOADER🚀*','813092DYENlU','sendMessage','\x0a🔁\x20*SHARES:*\x20','1235181vmbXPI','FB\x20Download\x20Error:','📥\x20*SILENT-SOBX-MD\x20FB\x20DOWNLOADER..🚀*\x0a\x0a*QUAILTY•','key','type','*_SILENT-SOBX-MD\x20DOWNLOADING\x20TIKTOK\x20VIDEO\x20,\x20PLEASE\x20WAIT...🚀_*','THE\x20SILENT-SOBX-MD\x20API.','\x0a❌\x20*Error:*\x20','No\x20valid\x20video\x20URL\x20found.','sender','Please\x20provide\x20a\x20TikTok\x20video\x20link.','tiktok','reel3','status','quality','igdl3','media','Error\x20in\x20Instagram\x20downloader\x20command:','includes','user','video','@s.whatsapp.net','axios','👍\x20*LIKES:*\x20','length','44WavpSa','⚠️\x20*FB\x20Downloader\x20Error!*\x0a\x0a📍\x20*Group/User:*\x20','nickname','result','startsWith','2093104NOLJTG','680gJcDrC','data'];_0x4c02=function(){return _0x43a14d;};return _0x4c02();}(function(_0x28bbb4,_0x20f668){const _0x60121e=_0x1da4,_0x2d0ff8=_0x28bbb4();while(!![]){try{const _0x34d631=-parseInt(_0x60121e(0xb1))/0x1*(-parseInt(_0x60121e(0xa5))/0x2)+parseInt(_0x60121e(0x74))/0x3+parseInt(_0x60121e(0x71))/0x4+parseInt(_0x60121e(0x69))/0x5*(parseInt(_0x60121e(0xa6))/0x6)+parseInt(_0x60121e(0xa4))/0x7*(parseInt(_0x60121e(0x92))/0x8)+-parseInt(_0x60121e(0xb3))/0x9*(-parseInt(_0x60121e(0x93))/0xa)+parseInt(_0x60121e(0x8d))/0xb*(-parseInt(_0x60121e(0x9a))/0xc);if(_0x34d631===_0x20f668)break;else _0x2d0ff8['push'](_0x2d0ff8['shift']());}catch(_0x452e69){_0x2d0ff8['push'](_0x2d0ff8['shift']());}}}(_0x4c02,0xa3ee8));const {cmd}=require(_0x202082(0x6d)),axios=require(_0x202082(0x8a));cmd({'pattern':'fb','alias':[_0x202082(0x6f),_0x202082(0xab)],'desc':_0x202082(0x9f),'category':'download','filename':__filename},async(_0x56ee8f,_0x43f07c,_0x43ef5f,{from:_0x1dd2f,q:_0x27d8fb,reply:_0x40e1fd})=>{const _0x24f57a=_0x202082;try{if(!_0x27d8fb||!_0x27d8fb[_0x24f57a(0x91)]('https://'))return _0x40e1fd(_0x24f57a(0xb0));await _0x56ee8f[_0x24f57a(0x72)](_0x1dd2f,{'react':{'text':'⏳','key':_0x43f07c[_0x24f57a(0x77)]}});const _0x189b22='https://lance-frank-asta.onrender.com/api/downloader?url='+encodeURIComponent(_0x27d8fb),{data:_0x3429ea}=await axios[_0x24f57a(0xaa)](_0x189b22);if(!_0x3429ea?.[_0x24f57a(0xac)]?.[_0x24f57a(0x81)]||!_0x3429ea?.[_0x24f57a(0xac)]?.[_0x24f57a(0x94)]?.[_0x24f57a(0x90)]?.[_0x24f57a(0x8c)])throw new Error(_0x24f57a(0xa2));let _0x2304fb=_0x3429ea[_0x24f57a(0xac)][_0x24f57a(0x94)]['result']['find'](_0x1d3e9b=>_0x1d3e9b[_0x24f57a(0x82)]==='HD')||_0x3429ea[_0x24f57a(0xac)][_0x24f57a(0x94)][_0x24f57a(0x90)]['find'](_0x2b487f=>_0x2b487f[_0x24f57a(0x82)]==='SD');if(!_0x2304fb)throw new Error(_0x24f57a(0x7c));await _0x56ee8f[_0x24f57a(0x72)](_0x1dd2f,{'video':{'url':_0x2304fb[_0x24f57a(0x6c)]},'caption':_0x24f57a(0x76)+_0x2304fb[_0x24f57a(0x82)]+_0x24f57a(0x6e)},{'quoted':_0x43f07c});}catch(_0x40d061){console[_0x24f57a(0xa1)](_0x24f57a(0x75),_0x40d061);const _0xc4224b=_0x56ee8f[_0x24f57a(0x87)]['id'][_0x24f57a(0xb6)](':')[0x0]+_0x24f57a(0x89);await _0x56ee8f[_0x24f57a(0x72)](_0xc4224b,{'text':_0x24f57a(0x8e)+_0x1dd2f+'\x0a💬\x20*Query:*\x20'+_0x27d8fb+_0x24f57a(0x7b)+(_0x40d061[_0x24f57a(0xb5)]||_0x40d061)}),_0x40e1fd(_0x24f57a(0x9e));}}),cmd({'pattern':_0x202082(0x95),'alias':[_0x202082(0x83),_0x202082(0x80),_0x202082(0x99),_0x202082(0xa8)],'desc':_0x202082(0x97),'category':_0x202082(0xb7),'react':'⏳','filename':__filename},async(_0x4fc4a9,_0xed6c77,_0x13f60d,{from:_0x175c5c,args:_0x54028b,q:_0x4cb425,reply:_0x55f69a,react:_0x584f43})=>{const _0x592728=_0x202082;try{if(!_0x4cb425)return _0x55f69a(_0x592728(0xb4));if(!_0x4cb425[_0x592728(0x86)]('instagram.com'))return _0x55f69a('Invalid\x20Instagram\x20link.');const _0x5a0182=_0x592728(0x6b)+_0x4cb425,{data:_0x141826}=await axios[_0x592728(0xaa)](_0x5a0182);if(!_0x141826['status']||!_0x141826[_0x592728(0x94)])return await _0x584f43('❌'),_0x55f69a(_0x592728(0x9d));const {username:_0x4c2cb7,fullname:_0x1147b1,caption:_0x25a84b,likes:_0x181a85,comments:_0x2907ea,followed:_0x2dff00,download:_0x59f03c}=_0x141826['data'],_0x171b6b=_0x592728(0x70)+'📸\x20*Instagram\x20Post*\x20📸\x0a\x0a'+(_0x592728(0xae)+_0x1147b1+_0x592728(0x9b)+_0x4c2cb7+')\x0a')+(_0x592728(0xad)+_0x181a85+'\x0a💬\x20*Comments:*\x20'+_0x2907ea+'\x0a👥\x20*Followers:*\x20'+_0x2dff00+'\x0a')+(_0x592728(0xa7)+(_0x25a84b||_0x592728(0x7a)));for(const _0xa1e63e of _0x59f03c){if(_0xa1e63e[_0x592728(0x78)]===_0x592728(0xaf))await _0x4fc4a9[_0x592728(0x72)](_0x175c5c,{'image':{'url':_0xa1e63e[_0x592728(0x6c)]},'caption':_0x171b6b,'contextInfo':{'mentionedJid':[_0x13f60d[_0x592728(0x7d)]]}},{'quoted':_0xed6c77});else _0xa1e63e[_0x592728(0x78)]===_0x592728(0x88)&&await _0x4fc4a9[_0x592728(0x72)](_0x175c5c,{'video':{'url':_0xa1e63e[_0x592728(0x6c)]},'caption':_0x171b6b,'contextInfo':{'mentionedJid':[_0x13f60d[_0x592728(0x7d)]]}},{'quoted':_0xed6c77});}await _0x584f43('✅');}catch(_0x4044e7){console[_0x592728(0xa1)](_0x592728(0x85),_0x4044e7),await _0x584f43('❌'),_0x55f69a(_0x592728(0x96)+_0x4044e7[_0x592728(0xb5)]);}}),cmd({'pattern':_0x202082(0x7f),'alias':['ttdl','tt',_0x202082(0x98)],'desc':_0x202082(0x9c),'category':'downloader','react':'🎵','filename':__filename},async(_0x37aaaa,_0x4d941b,_0xd05c13,{from:_0x545887,args:_0x2a6eea,q:_0x3e2757,reply:_0xb6dcdc})=>{const _0x57c2c3=_0x202082;try{if(!_0x3e2757)return _0xb6dcdc(_0x57c2c3(0x7e));if(!_0x3e2757[_0x57c2c3(0x86)]('tiktok.com'))return _0xb6dcdc('Invalid\x20TikTok\x20link.');_0xb6dcdc(_0x57c2c3(0x79));const _0x47b317=_0x57c2c3(0xa0)+_0x3e2757,{data:_0x7b2d31}=await axios[_0x57c2c3(0xaa)](_0x47b317);if(!_0x7b2d31['status']||!_0x7b2d31[_0x57c2c3(0x94)])return _0xb6dcdc(_0x57c2c3(0xa3));const {title:_0x11588a,like:_0x2eed6b,comment:_0x43af27,share:_0xad36b6,author:_0x3c08fe,meta:_0x3f4546}=_0x7b2d31[_0x57c2c3(0x94)],_0x3404e6=_0x3f4546[_0x57c2c3(0x84)]['find'](_0x16a29c=>_0x16a29c['type']===_0x57c2c3(0x88))['org'],_0x9312df='🎵\x20*SILENT-SOBX-MD\x20TIKTOK\x20VIDEO*\x20🎵\x0a\x0a'+('👤\x20*USER:*\x20'+_0x3c08fe[_0x57c2c3(0x8f)]+_0x57c2c3(0x9b)+_0x3c08fe[_0x57c2c3(0x6a)]+')\x0a')+(_0x57c2c3(0xa9)+_0x11588a+'\x0a')+(_0x57c2c3(0x8b)+_0x2eed6b+'\x0a💬\x20*COMMENTS:*\x20'+_0x43af27+_0x57c2c3(0x73)+_0xad36b6+_0x57c2c3(0xb2));await _0x37aaaa['sendMessage'](_0x545887,{'video':{'url':_0x3404e6},'caption':_0x9312df,'contextInfo':{'mentionedJid':[_0xd05c13[_0x57c2c3(0x7d)]]}},{'quoted':_0x4d941b});}catch(_0x1ce336){console[_0x57c2c3(0xa1)]('Error\x20in\x20TikTok\x20downloader\x20command:',_0x1ce336),_0xb6dcdc(_0x57c2c3(0x96)+_0x1ce336['message']);}});
+const { cmd } = require('../command');
+const axios = require('axios');
+
+cmd({
+  pattern: "fb",
+  alias: ["facebook", "fbdl"],
+  desc: "Download Facebook videos",
+  category: "download",
+  filename: __filename
+}, async (conn, m, store, { from, q, reply }) => {
+  try {
+    if (!q || !q.startsWith("https://")) {
+      return reply("*`Need a valid Facebook URL!`*");
+    }
+
+    await conn.sendMessage(from, { react: { text: '⏳', key: m.key } });
+
+    const apiUrl = `https://lance-frank-asta.onrender.com/api/downloader?url=${encodeURIComponent(q)}`;
+    const { data } = await axios.get(apiUrl);
+
+    if (!data?.content?.status || !data?.content?.data?.result?.length) {
+      throw new Error("Invalid API response or no video found.");
+    }
+
+    let videoData = data.content.data.result.find(v => v.quality === "HD") || 
+                    data.content.data.result.find(v => v.quality === "SD");
+
+    if (!videoData) {
+      throw new Error("No valid video URL found.");
+    }
+
+    await conn.sendMessage(from, {
+      video: { url: videoData.url },
+      caption: `📥 *SILENT-SOBX-MD FB DOWNLOADER..🚀*\n\n*QUAILTY•${videoData.quality}*\n\n🔗 *POWERED BY SILENTLOVER432*`
+    }, { quoted: m });
+
+  } catch (error) {
+    console.error("FB Download Error:", error);
+
+    // Send error details to bot owner
+    const ownerNumber = conn.user.id.split(":")[0] + "@s.whatsapp.net";
+    await conn.sendMessage(ownerNumber, {
+      text: `⚠️ *FB Downloader Error!*\n\n📍 *Group/User:* ${from}\n💬 *Query:* ${q}\n❌ *Error:* ${error.message || error}`
+    });
+
+    // Notify the user
+    reply("❌ *Error:* Unable to process the request. Please try again later.");
+  }
+});
+
+
+cmd({
+    pattern: "insta3",
+    alias: ["igdl3", "reel3", "ig3", "instadl3"],
+    desc: "Download Instagram reels or image posts",
+    category: "downloader",
+    react: "⏳",
+    filename: __filename
+},
+async (conn, mek, m, { from, args, q, reply, react }) => {
+    try {
+        if (!q) return reply("Please provide an Instagram post or reel link.");
+        if (!q.includes("instagram.com")) return reply("Invalid Instagram link.");
+
+        const apiUrl = `https://delirius-apiofc.vercel.app/download/igv2?url=${q}`;
+        const { data } = await axios.get(apiUrl);
+
+        if (!data.status || !data.data) {
+            await react("❌"); 
+            return reply("Failed to fetch Instagram media.");
+        }
+
+        const { username, fullname, caption, likes, comments, followed, download } = data.data;
+
+        const captionText = `*SILENT-SOBX-MD IG DOWNLOADER🚀*` +
+                            `📸 *Instagram Post* 📸\n\n` +
+                            `👤 *User:* ${fullname} (@${username})\n` +
+                            `❤️ *Likes:* ${likes}\n💬 *Comments:* ${comments}\n👥 *Followers:* ${followed}\n` +
+                            `📝 *Caption:*\n${caption || "THE SILENT-SOBX-MD API."}`;
+
+        for (const media of download) {
+            if (media.type === "image") {
+                await conn.sendMessage(from, {
+                    image: { url: media.url },
+                    caption: captionText,
+                    contextInfo: { mentionedJid: [m.sender] }
+                }, { quoted: mek });
+            } else if (media.type === "video") {
+                await conn.sendMessage(from, {
+                    video: { url: media.url },
+                    caption: captionText,
+                    contextInfo: { mentionedJid: [m.sender] }
+                }, { quoted: mek });
+            }
+        }
+
+        await react("✅"); // React after successfully sending media
+    } catch (e) {
+        console.error("Error in Instagram downloader command:", e);
+        await react("❌");
+        reply(`An error occurred: ${e.message}`);
+    }
+});
+
+
+/*cmd({
+    pattern: "tiktok",
+    alias: ["ttdl", "tt", "tiktokdl"],
+    desc: "Download TikTok video without watermark",
+    category: "downloader",
+    react: "🎵",
+    filename: __filename
+},
+async (conn, mek, m, { from, args, q, reply }) => {
+    try {
+        if (!q) return reply("Please provide a TikTok video link.");
+        if (!q.includes("tiktok.com")) return reply("Invalid TikTok link.");
+        
+        reply("*_SILENT-SOBX-MD DOWNLOADING TIKTOK VIDEO , PLEASE WAIT...🚀_*");
+        
+        const apiUrl = `https://delirius-apiofc.vercel.app/download/tiktok?url=${q}`;
+        const { data } = await axios.get(apiUrl);
+        
+        if (!data.status || !data.data) return reply("Failed to fetch TikTok video.");
+        
+        const { title, like, comment, share, author, meta } = data.data;
+        const videoUrl = meta.media.find(v => v.type === "video").org;
+        
+        const caption = `🎵 *SILENT-SOBX-MD TIKTOK VIDEO* 🎵\n\n` +
+                        `👤 *USER:* ${author.nickname} (@${author.username})\n` +
+                        `📖 *TITLE:* ${title}\n` +
+                        `👍 *LIKES:* ${like}\n💬 *COMMENTS:* ${comment}\n🔁 *SHARES:* ${share}\n\n> © POWERED BY SILENTLOVER432 ♥️`;
+        
+        await conn.sendMessage(from, {
+            video: { url: videoUrl },
+            caption: caption,
+            contextInfo: { mentionedJid: [m.sender] }
+        }, { quoted: mek });
+        
+    } catch (e) {
+        console.error("Error in TikTok downloader command:", e);
+        reply(`An error occurred: ${e.message}`);
+    }
+});*/
+
+const { fetchJson } = require('../functions');
+
+cmd({
+  pattern: "tiktok",
+  alias: ['tt', 'ttdown'],
+  react: "🎥",
+  desc: "Download For Tiktok Videos",
+  category: "download",
+  filename: __filename
+}, async (conn, mek, m, { from, args, q, reply }) => {
+    try {
+        if (!q) return reply("Please provide a TikTok video link.");
+        if (!q.includes("tiktok.com")) return reply("Invalid TikTok link.");
+    }
+    const contextInfo = {
+      forwardingScore: 1,
+      isForwarded: true,
+      forwardedNewsletterMessageInfo: {
+        newsletterName: "SILENT-SOBX-MD ♥️",
+        newsletterJid: "120363189714152560@newsletter"
+      }
+      //externalAdReply: {
+        //title: "𝐒𝐄𝐎𝐍 𝐌𝐃 𝐖𝐀 𝐁𝐎𝐓",
+        //body: "A Seon MD WA bot made by Dark Cyber Maker",
+        //sourceUrl: "https://www.youtube.com/@Sadiya-Tech",
+        //thumbnailUrl: "https://i.ibb.co/h2GC8Jn/20241228-171651.png",
+        //mediaType: 1,
+        //renderLargerThumbnail: false
+      //}
+    };
+
+    const apiResponse = await fetchJson(`https://api.agatz.xyz/api/tiktok?url=${q}`);
+
+    const downloadMessage = `*SILENT-SOBX-MD TIKTOK DOWNLOADEDER*
+    
+> *TITLE :* ${apiResponse.data.title}
+> *Author :* ${apiResponse.data.author.fullname}
+> *DURATION :* ${apiResponse.data.duration}
+> *VIEWS :* ${apiResponse.data.stats.views}
+
+*1.1 | No-Watermark-01*
+*1.2 | No-Watermark-SD*
+*1.3 | No-Watermark-HD*
+*1.4 | AUDIO DOWNLOAD*
+ 
+> BY SILENTLOVER432 ♥️ 🌸 ☺️
+`;
+
+    const sentMessage = await conn.sendMessage(from, {
+      image: { url: apiResponse.data.cover || '' },
+      caption: downloadMessage,
+      contextInfo
+    }, { quoted: message });
+
+    conn.ev.on("messages.upsert", async (msgUpdate) => {
+      const receivedMessage = msgUpdate.messages[0];
+
+      if (!receivedMessage.message || !receivedMessage.message.extendedTextMessage) {
+        return;
+      }
+
+      const userResponse = receivedMessage.message.extendedTextMessage.text.trim();
+
+      if (receivedMessage.message.extendedTextMessage.contextInfo &&
+          receivedMessage.message.extendedTextMessage.contextInfo.stanzaId === sentMessage.key.id) {
+        
+        switch (userResponse) {
+          case '1.1':
+            await conn.sendMessage(from, {
+              video: { url: apiResponse.data.data[0].url },
+              mimetype: "video/mp4",
+              caption: `*© POWERD BY SILENTLOVER432*`,
+              contextInfo
+            }, { quoted: receivedMessage });
+            break;
+
+          case '1.2':
+            await conn.sendMessage(from, {
+              video: { url: apiResponse.data.data[1].url },
+              mimetype: "video/mp4",
+              caption: `*© POWERD BY SILENTLOVER432*`,
+              contextInfo
+            }, { quoted: receivedMessage });
+            break;
+
+          case '1.3':
+            await conn.sendMessage(from, {
+              video: { url: apiResponse.data.data[2].url },
+              mimetype: "video/mp4",
+              caption: `*© POWERD BY SILENTLOVER432*`,
+              contextInfo
+            }, { quoted: receivedMessage });
+            break;
+
+          case '1.4':
+            await conn.sendMessage(from, {
+              audio: { url: apiResponse.data.music_info.url },
+              mimetype: "audio/mpeg",
+              contextInfo
+            }, { quoted: receivedMessage });
+            break;
+
+          default:
+            await conn.sendMessage(from, {
+              text: "❌ Invalid option. Please select a valid number."
+            }, { quoted: receivedMessage });
+            break;
+        }
+      }
+    });
+
+  } catch (error) {
+    console.error(error);
+    await reply("❌ *I couldn't find anything. Please try again later...*");
+    await conn.sendMessage(botNumber + "@s.whatsapp.net", {
+      text: `❗ *Error Info:* ${error}`
+    }, { quoted: message });
+  }
+});
+
+
+/*cmd({
+  pattern: "tiktok3",
+  alias: ['tt3', 'ttdown3'],
+  react: "🎥",
+  desc: "Download TikTok Videos",
+  category: "download",
+  filename: __filename
+}, async (bot, message, args, { from, quoted, reply, q }) => {
+  try {
+    if (!q) return await reply("*`Please provide a TikTok URL.`*");
+    
+    if (!q.includes('tiktok.com')) return await reply("This URL is invalid.");
+
+    const apiUrl = `https://dark-shan-yt.koyeb.app/download/tiktok?url=${encodeURIComponent(q)}`;
+    const apiResponse = await fetchJson(apiUrl);
+
+    if (!apiResponse.status || !apiResponse.data) {
+      return await reply("❌ Could not fetch video details.");
+    }
+
+    const videoData = apiResponse.data;
+    const videoOptions = videoData.data;
+
+    const downloadMessage = `
+┏━┫ *⚬Lααɾα-ᴍᴅ-ᴛɪᴋᴛᴏᴋ⚬* ┣━✾
+┃            *ᴸ  ͣ  ͣ  ͬ  ͣ  ✻  ᴸ  ͣ  ͣ  ͬ  ͣ*
+┻
+> *Title:* ${videoData.title}
+> *Author:* ${videoData.author.fullname}
+> *Duration:* ${videoData.duration}
+> *Views:* ${videoData.stats.views}
+      
+*🔢 ʀᴇᴘʟʏ ʙᴇʟᴏᴡ ᴛʜᴇ ɴᴜᴍʙᴇʀ*
+
+*1.1 | No Watermark - SD*
+*1.2 | No Watermark - HD*
+*1.3 | Watermarked*
+*1.4 | AUDIO*
+
+> Lααɾα-ᴍᴅ ✻`;
+
+    const sentMessage = await conn.sendMessage(from, {
+      image: { url: videoData.cover || '' },
+      caption: downloadMessage,
+      contextInfo: {
+                mentionedJid: ['94779062397@s.whatsapp.net'], // specify mentioned JID(s) if any
+                groupMentions: [],
+                forwardingScore: 1,
+                isForwarded: true,
+                forwardedNewsletterMessageInfo: {
+                    newsletterJid: '120363192254044294@newsletter',
+                    newsletterName: "Lααɾα-ᴍᴅ ✻",
+                    serverMessageId: 999
+                }           
+            }
+     }, {quoted: mek});
+
+    bot.ev.on("messages.upsert", async (msgUpdate) => {
+      const receivedMessage = msgUpdate.messages[0];
+
+      if (!receivedMessage.message || !receivedMessage.message.extendedTextMessage) return;
+
+      const userResponse = receivedMessage.message.extendedTextMessage.text.trim();
+
+      if (receivedMessage.message.extendedTextMessage.contextInfo &&
+          receivedMessage.message.extendedTextMessage.contextInfo.stanzaId === sentMessage.key.id) {
+        
+        let downloadUrl;
+        let captionText = "© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ · · ·*";
+
+        switch (userResponse) {
+          case '1.1':
+            downloadUrl = videoOptions.find(v => v.type === "nowatermark")?.url;
+            break;
+          case '1.2':
+            downloadUrl = videoOptions.find(v => v.type === "nowatermark_hd")?.url;
+            break;
+          case '1.3':
+            downloadUrl = videoOptions.find(v => v.type === "watermark")?.url;
+            break;
+          case '1.4':
+            downloadUrl = videoData.music_info.url;
+            captionText = "© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ · · ·*";
+            break;
+          default:
+            return await conn.sendMessage(from, { text: "❌ Invalid option. Try again." }, { quoted: receivedMessage });
+        }
+
+        if (downloadUrl) {
+          const mediaType = userResponse === '4' ? "audio/mpeg" : "video/mp4";
+          await bot.sendMessage(from, {
+            [userResponse === '4' ? "audio" : "video"]: { url: downloadUrl },
+            mimetype: mediaType,
+            caption: captionText
+          }, { quoted: mek });
+        }
+      }
+    });
+
+  } catch (error) {
+    console.error(error);
+    await reply("❌ Error fetching the video. Please try again later.");
+  }
+});*/
+          
