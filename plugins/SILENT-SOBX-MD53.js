@@ -229,6 +229,32 @@ async (conn, mek, m, { from, args, isOwner, reply }) => {
 });
 
 //--------------------------------------------
+//  AUTO-REPLY COMMANDS
+//--------------------------------------------
+cmd({
+    pattern: "auto_voice",
+    alias: ["autoreply"],
+    desc: "enable or disable auto-reply.",
+    category: "settings",
+    filename: __filename
+},    
+async (conn, mek, m, { from, args, isOwner, reply }) => {
+    if (!isOwner) return reply("*📛 ᴏɴʟʏ ᴛʜᴇ ᴏᴡɴᴇʀ ᴄᴀɴ ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ!*");
+
+    const status = args[0]?.toLowerCase();
+    // Check the argument for enabling or disabling the anticall feature
+    if (args[0] === "on") {
+        config.AUTO_VOICE = "true";
+        return reply("*auto-voice  is now enabled.*");
+    } else if (args[0] === "off") {
+        config.AUTO_VOICE = "false";
+        return reply("auto-voice feature is now disabled.");
+    } else {
+        return reply(`*🫟 ᴇxᴀᴍᴘʟᴇ: . ᴀᴜᴛᴏ_ᴠᴏɪᴄᴇ ᴏɴ*`);
+    }
+});
+
+//--------------------------------------------
 //   AUTO-REACT COMMANDS
 //--------------------------------------------
 cmd({
