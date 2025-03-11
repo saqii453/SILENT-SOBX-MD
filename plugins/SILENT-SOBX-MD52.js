@@ -38,8 +38,8 @@ cmd({
         const message = `*📞CONTACT NUMBER FORMATS :*\n\n` +
                         `*INTERNATIONAL FORMAT :* ${plusFormat}\n` +
                         `*LINK :* ${waLink}\n` +
-                        `*JID :* ${jidFormat}` +
-                         `*© POWERD BY SILENTLOVER432 ♥️*`;
+                        `*JID :* ${jidFormat}\n\n` +
+                        `*© POWERD BY SILENTLOVER432 ♥️*`;
 
         // Reply with the formatted message
         return reply(message);
@@ -56,7 +56,7 @@ cmd({
 const googleTTS = require('google-tts-api'); 
 
 cmd({
-  pattern: "tts2",
+  pattern: "tts3",
   desc: "Convert text to speech with different voices.",
   category: "fun",
   react: "🔊",
@@ -109,7 +109,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 
 cmd({
-  pattern: "tts3",
+  pattern: "tts4",
   desc: "Convert text to speech with different voices.",
   category: "fun",
   react: "🔊",
